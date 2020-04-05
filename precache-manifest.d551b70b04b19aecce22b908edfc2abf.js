@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "747c3a7c70c90ed670fb1201d528c36f",
+    "revision": "1ea5d8868a1235ca77006c858dd93b0c",
     "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/index.html"
   },
   {
-    "revision": "74e08256a8aa3a458fbe",
+    "revision": "b53a50dcc1dce022ef23",
     "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "9ebc0bf5a0712eeb1614",
+    "revision": "f625d35992159d767d36",
     "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "74e08256a8aa3a458fbe",
-    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/2.958ba8ca.chunk.js"
+    "revision": "b53a50dcc1dce022ef23",
+    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/2.6fb234b9.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/2.958ba8ca.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/2.6fb234b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ebc0bf5a0712eeb1614",
-    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/main.4cbbef89.chunk.js"
+    "revision": "f625d35992159d767d36",
+    "url": "/Crio-Launch-Feb-2020-vipul07-mathuria/static/js/main.a90e276a.chunk.js"
   },
   {
     "revision": "dd3659bee5fba7f9570f",
